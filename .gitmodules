@@ -1,0 +1,3 @@
+[submodule "testimport"]
+	path = testimport
+	url = ../testimport/
